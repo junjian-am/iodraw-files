@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDwyflbNdOBsVPTKS-75-6" value="后台管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="549" y="-179" width="120" height="60" as="geometry" />
+          <mxGeometry x="549" y="-93" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
