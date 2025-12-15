@@ -46,12 +46,6 @@
         <mxCell id="ubMYtdL6hx3bQqDa4VEC-11" value="提示用户输入密码或用户名" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubMYtdL6hx3bQqDa4VEC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubMYtdL6hx3bQqDa4VEC-18" target="ubMYtdL6hx3bQqDa4VEC-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ubMYtdL6hx3bQqDa4VEC-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="585" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
