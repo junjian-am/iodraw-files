@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q4Ns5HfpElsx7NQXDq-z-1" value="用户访问" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="549" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4Ns5HfpElsx7NQXDq-z-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q4Ns5HfpElsx7NQXDq-z-2" target="q4Ns5HfpElsx7NQXDq-z-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eDwyflbNdOBsVPTKS-75-6" value="后台管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-280" width="120" height="60" as="geometry" />
+          <mxGeometry x="549" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
