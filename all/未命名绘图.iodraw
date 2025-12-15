@@ -28,7 +28,7 @@
         <mxCell id="ubMYtdL6hx3bQqDa4VEC-9" value="是否为空" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ubMYtdL6hx3bQqDa4VEC-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ubMYtdL6hx3bQqDa4VEC-11" value="提示用户输入密码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-90" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
