@@ -50,7 +50,10 @@
         <mxCell id="ubMYtdL6hx3bQqDa4VEC-20" value="验证数据正确" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ubMYtdL6hx3bQqDa4VEC-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ubMYtdL6hx3bQqDa4VEC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubMYtdL6hx3bQqDa4VEC-23" target="ubMYtdL6hx3bQqDa4VEC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ubMYtdL6hx3bQqDa4VEC-23" value="提示信息错误" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
