@@ -52,6 +52,9 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-36" value="sys&lt;div&gt;硬件信息虚拟目录(和proc类似，更加现代化)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-37" value="tmp&lt;div&gt;临时文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
