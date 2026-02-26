@@ -7,8 +7,8 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AT4KiMfJfys2UC54PBpO-1" target="AT4KiMfJfys2UC54PBpO-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="150" />
-              <mxPoint x="160" y="150" />
+              <mxPoint x="80" y="150" />
+              <mxPoint x="365" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -23,7 +23,7 @@
           <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT4KiMfJfys2UC54PBpO-2" value="boot&amp;nbsp;&lt;li style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 24px; text-align: start; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;div style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: 24px; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;内核、initrd、grub 启动文件。&lt;/font&gt;&lt;/div&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="50" width="150" height="70" as="geometry" />
+          <mxGeometry x="290" y="110" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AT4KiMfJfys2UC54PBpO-4" value="cdrom&lt;div&gt;光盘挂载点（现在基本不用）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="150" height="70" as="geometry" />
