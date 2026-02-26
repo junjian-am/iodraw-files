@@ -39,7 +39,7 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-4" value="cdrom&lt;div&gt;光盘挂载点（现在基本不用）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="190" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="AT4KiMfJfys2UC54PBpO-6" value="dev&lt;br&gt;&lt;div&gt;根目录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AT4KiMfJfys2UC54PBpO-6" value="dev&lt;br&gt;&lt;div&gt;设备文件：硬盘、U 盘、终端等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
