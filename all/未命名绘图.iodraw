@@ -55,6 +55,9 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-37" value="tmp&lt;div&gt;临时文件&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-39" value="usr&lt;div&gt;存放系统软件、命令、库、文档&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
