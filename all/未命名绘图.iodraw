@@ -63,6 +63,9 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-17" value="mnt&lt;div&gt;手动挂载硬盘 / 分区用&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="368" y="770" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-20" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
