@@ -46,6 +46,9 @@
         <mxCell id="AT4KiMfJfys2UC54PBpO-34" value="snap&lt;div&gt;Ubuntu 自带的软件包格式目录&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-35" value="srv&lt;div&gt;服务数据目录(网站、FTP等)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
