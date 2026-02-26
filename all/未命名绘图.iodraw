@@ -65,7 +65,7 @@
           <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AT4KiMfJfys2UC54PBpO-42" value="swap.img&lt;div&gt;交换文件(虚拟内存)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
