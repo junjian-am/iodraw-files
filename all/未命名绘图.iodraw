@@ -30,6 +30,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AT4KiMfJfys2UC54PBpO-1" target="AT4KiMfJfys2UC54PBpO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AT4KiMfJfys2UC54PBpO-1" value="/&amp;nbsp;&lt;div&gt;根目录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,6 +44,9 @@
         </mxCell>
         <mxCell id="AT4KiMfJfys2UC54PBpO-6" value="dev&lt;br&gt;&lt;div&gt;设备文件：硬盘、U 盘、终端等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AT4KiMfJfys2UC54PBpO-9" value="dev&lt;br&gt;&lt;div&gt;设备文件：硬盘、U 盘、终端等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="345" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
